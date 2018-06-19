@@ -4,6 +4,6 @@
         "sourceMap": true,
         "watch": true,
         "outDir": "dist",
-        "target": "es5"
+        "target": "es2015"
     }
 }
